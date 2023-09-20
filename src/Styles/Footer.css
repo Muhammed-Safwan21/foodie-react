@@ -1,0 +1,22 @@
+.restaurant-footer {
+    padding: 1rem;
+    background-color: rgb(47 156 243);
+    
+   
+  }
+  
+  .footer {
+    max-width: 960px;
+    margin: 0 auto;
+    
+  }
+ 
+  .footer p{
+    text-align: center;
+    color: white;
+    
+  }
+  .footer a svg{
+   color: aliceblue;
+  }
+  

@@ -1,0 +1,53 @@
+.restaurant-image {
+    height: 400px;
+    width: 500px;
+    margin-top: 20px;
+  }
+ 
+  .card-title {
+    font-size: 24px;
+  }
+  
+  .card-text {
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  strong {
+    font-weight: bold;
+  }
+  
+  
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .col-md-6 {
+    flex: 0 0 calc(50% - 20px);
+    margin: 10px;
+  }
+  
+  .first-column{
+    margin-top: 70px;
+    margin-left: 30px;
+  }
+  .f-class{
+    margin-left: 10px;
+  }
+  .second-row{
+    margin: 10px;
+  }
+
+
+ 

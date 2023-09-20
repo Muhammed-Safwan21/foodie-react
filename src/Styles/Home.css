@@ -1,0 +1,21 @@
+.image {
+   
+    object-fit: cover;
+    height: 200px !important;
+  }
+  body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('https://img.freepik.com/free-photo/fresh-colourful-ingredients-mexican-cuisine_23-2148254294.jpg?w=826&t=st=1682830969~exp=1682831569~hmac=fa31787350381d85a62684b599e98801146e15259d1fc6e38c213f973732259a');
+  }
+
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+  
+  .card-content-container {
+    max-height: 180px; /* Adjust the maximum height as needed */
+    overflow-y: auto; /* Enable vertical scrolling when content overflows */
+  }

@@ -1,0 +1,24 @@
+h1{
+    font-weight: bold;
+}
+h2{
+    margin-top: 50px;
+}
+
+.row{
+    padding: 20px;
+
+}
+.content{
+    margin-left: 40px;
+    
+}
+.content-img{
+    margin-top: 25px;
+}
+.full-body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('https://img.freepik.com/free-photo/noodles-with-vegetables-with-copy-space_23-2148551717.jpg?w=826&t=st=1682829346~exp=1682829946~hmac=6cf29ceb785c667db963f676ddc1e10a1315caf6a4377db0c68a7875623dfe8c');
+  }
+

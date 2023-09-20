@@ -1,0 +1,36 @@
+.navbar {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.navbar-logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.navbar-nav .nav-item {
+  font-size: 18px;
+  color: #fff;
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+.navbar-nav .nav-item:hover {
+  color: #f8f8f8;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    height: auto;
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .navbar-nav .nav-item {
+    margin-bottom: 10px;
+  }
+}
